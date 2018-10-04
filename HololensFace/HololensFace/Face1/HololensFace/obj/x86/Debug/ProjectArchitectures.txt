@@ -1,0 +1,2 @@
+C:\Users\boellis\Desktop\TheFuture\HololensAzure\HololensFace\HololensFace\Face1\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\boellis\Desktop\TheFuture\HololensAzure\HololensFace\HololensFace\Face1\HololensFace\HololensFace.csproj;x86

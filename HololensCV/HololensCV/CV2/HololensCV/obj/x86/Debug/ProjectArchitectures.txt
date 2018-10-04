@@ -1,0 +1,1 @@
+C:\Users\boellis\Desktop\TheFuture\HololensAzure\HololensCV\HololensCV\CV2\HololensCV\HololensCV.csproj;x86

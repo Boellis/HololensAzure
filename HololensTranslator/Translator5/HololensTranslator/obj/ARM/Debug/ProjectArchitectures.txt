@@ -1,0 +1,2 @@
+C:\Users\boellis\Desktop\TheFuture\HololensAzure\HololensTranslator\Translator5\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\boellis\Desktop\TheFuture\HololensAzure\HololensTranslator\Translator5\HololensTranslator\HololensTranslator.csproj;arm
